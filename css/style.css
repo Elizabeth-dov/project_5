@@ -11,9 +11,9 @@ body{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-   font-size: 14px;
-   line-height: 1.2;
-   color: #000000;
+    font-size: 14px;
+    line-height: 1.2;
+    color: #000000;
 }
 ul,li,ol{
     list-style: none;
@@ -30,14 +30,14 @@ a{
     padding-bottom: 90px;
   }
   .footer {
-   background-color:#FFFFFF;
+    background-color:#FFFFFF;
     position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
     height: 80px;
   }
- 
+
 .section-title{
     margin-bottom: 50px;
     font-size: 48px;
@@ -45,9 +45,9 @@ a{
     text-align: center;
 }
 .container{
-max-width: 1200px;
-margin: 0 auto;
-padding: 0 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
 }
 .menu__btn{
     display: none;
@@ -406,59 +406,59 @@ main{
     margin: 34px auto 0;
     border: 1px solid #151618;
     width: 178px;
-}
-.courses__content-block-img{
+  }
+   .courses__content-block-img{
     font-family: "Yeseva One", cursive;
     position: relative;
     color: #fff;
     font-size: 11px;
-}
+  }
 .courses__title{
     padding: 15px;
     background-color: #BEA495;
     position: absolute;
     left: -6px;
     top: 35%;
-}
+  }
 .courses__time{
     padding: 7px 10px;
     background-color:#BEA495;
     position: absolute;
     left: -6px;
     top: 55%;
-}
+  }
 .courses__price{
     padding: 19px 10px;
     background-color: #BEA495;
     position: absolute;
     right: -5px;
     bottom: -4px;
-}
+  }
 .teachers{
     font-family: "Comfortaa", sans-serif;
     color: #FAFAFA;
     background-color: #A5978E;
     padding-bottom: 100px;
     padding-top: 20px;
-}
+  }
 .teachers__content-title{
     padding-bottom: 15px;
     font-size: 40px;
-}
+  }
 .teachers__content-text{
     font-size: 14px;
-}
+  }
 .teachers__content{
     max-width: 369px;
     max-height: 125px;
-}
+  }
 .teachers__content-img{
     display: grid;
     grid-template-columns: 30% 30%;
     gap: 50px 30px;
     justify-content: end;
     margin-top: -10%;
-}
+  }
 .teacher__1-content{
     position: absolute;
     background-color: #7B6152;
@@ -468,12 +468,12 @@ main{
     padding: 16px 25px;
     margin-left: 129px;
     margin-top: -6%;
-}
+  }
 .teacher__name{
     font-size: 12px;
     font-weight: bold;
    
-}
+  }
 .teacher__text{
     font-size: 10px;
     padding-top: 5px;
@@ -619,11 +619,11 @@ transform: rotate(180deg);
     font-size: 15px;
     text-align: center;
     border: 1px solid #151618;
-  margin-left: 900px;
+    margin-left: 900px;
 
 }
 .promo__content{
-  position: relative;
+    position: relative;
 }
 .promo{
     font-family: "Comfortaa", sans-serif;
@@ -760,35 +760,35 @@ transform: rotate(180deg);
         margin-left: 316px;
         margin-top: -20%;
         gap: 57px 141px;
-    }
+   }
     .steps__item {
         width: 300px;
         height: 225px;
-    }
-   .steps__item-img{
+   }
+    .steps__item-img{
     width: 128px;
     height: 225px;
    }
-   .courses__content-block {
+    .courses__content-block {
     margin-left: 141px;
    }
-   .courses__content{
+    .courses__content{
    width: 300px;
    min-height: 141px;
-  }
-   .teachers__content{
+   }
+    .teachers__content{
     width: 290px;
     height: 171px;
    }
-   .teachers__content-img {
-   margin-left: -99px;
+    .teachers__content-img {
+    margin-left: -99px;
    }
-   .section__descr{
+    .section__descr{
     width: 300px;
     height: 92px;
    }
-   .feedback__content {
-   margin-left: 296px;
+    .feedback__content {
+    margin-left: 296px;
    }
    .feedback__item-content{
     width: 225px;
@@ -800,11 +800,11 @@ transform: rotate(180deg);
    }
    .certificates__content {
     margin-left: 287px;
-}
+   }
     .promo__content {
     width: 742px;
     height: 53px;
-}
+    }
     .promo__btn {
      margin-left: 766px;
     }
@@ -938,11 +938,11 @@ transform: rotate(180deg);
        .creation__candle-content {
         width: 234px;
        }
-    .teacher__1-content{
-    margin-left: 95px;
-    margin-top: -7%;
-    width: 159px;
-    }
+       .teacher__1-content{
+        margin-left: 95px;
+        margin-top: -7%;
+        width: 159px;
+       }
     .teacher__name,
     .teacher__text{
         font-size: 10px;
@@ -959,17 +959,17 @@ transform: rotate(180deg);
     .feedback__content {
         margin-left: 262px;
     }
-   .feedback__item-img{
+    .feedback__item-img{
     max-width: 281px;
-   }
+    }
    .feedback__item-content {
     width: 250px;
     height: 350px;
     margin-left: -160px;
-}
+    }
     .promo__btn {
     margin-left: 650px;
-   }
+    }
    .signup__img {
     width: 250px;
     height: 400px;
@@ -978,7 +978,7 @@ transform: rotate(180deg);
    }
    .footer__social-list {
     margin-left: 77px;
-}
+   }
   
 }
 @media (max-width: 1000px) {
@@ -1182,11 +1182,11 @@ transform: rotate(180deg);
    .main-blog__item {
     width: 199px;
     height: 345px;
-}
-.main-blog__item-img {
+   }
+   .main-blog__item-img {
     width: 144px;
     height: 179px;
-}
+    }
     .main-blog__item-price,
     .main-blog__item-title{
         font-size: 12px;
@@ -1201,12 +1201,12 @@ transform: rotate(180deg);
         width: 103px;
         height: 35px;
         font-size: 12px;
-}
+    }
     .main-blog__list {
             gap: 56px 50px;
             margin-top: -10%;
 
-}
+    }
     .main-blog__item-content {
     margin-left: 0;
     }
@@ -1301,10 +1301,10 @@ transform: rotate(180deg);
    }
    .certificates__content {
     margin-left: 221px;
-}
+   }
    .certificate__slider {
     width: 615px;
-}
+   }
     .questions{
         padding-top: 100px;
     }
@@ -1313,7 +1313,7 @@ transform: rotate(180deg);
    }
    .promo {
     padding-bottom: 70px;
-}
+   }
    .promo__btn{
     margin-left: 473px;
    }
