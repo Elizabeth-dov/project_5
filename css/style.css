@@ -629,7 +629,7 @@ transform: rotate(180deg);
 .promo{
     font-family: "Comfortaa", sans-serif;
     color: #FAFAFA;
-    background-image: url(img/backgrn.jpg);
+    background-image: url(../img/backgrn.jpg);
     padding-top: 116px;
     padding-bottom: 160px;
 }
