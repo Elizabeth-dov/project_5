@@ -114,7 +114,6 @@ main{
    font-size: 15px;
    padding-left: 231px;
    position: relative;
-   top: 20px;
 }
 .phone_text::before{
     content: '';
