@@ -16,3 +16,13 @@ The Candle website was designed to provide users with an intuitive and visually 
 - **Responsive design**: The website adapts to various screen sizes.
 - **Interactive elements**: Using JavaScript to add dynamic features.
 - **Aesthetic appearance**: Careful use of CSS to create an attractive appearance.
+
+## Installation
+
+To run this project locally:
+1. Clone the repository:
+   
+   git clone https://github.com/elizabeth-dov/project_5.git
+   
+3. Navigate to the project directory:
+    cd project_5
