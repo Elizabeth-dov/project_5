@@ -1,4 +1,4 @@
-# Project 1 - Candle Store Website
+# Project 5 - Candle Store Website
 
 Welcome to the project 5 repository! This project is a website created using HTML, CSS and JavaScript.
 
