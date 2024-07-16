@@ -985,6 +985,9 @@ transform: rotate(180deg);
   
 }
 @media (max-width: 1000px) {
+    phone_text {
+    padding-left: 52px;
+    }
     .review {
         padding-bottom: 151px;
         max-height: 808px;
@@ -1097,6 +1100,9 @@ transform: rotate(180deg);
 @media (max-width: 800px) {
     .container{
         width: 640px;
+    }
+    .phone_text {
+    padding-left: 196px;
     }
     .footer__contacts{
         width: 100%;
