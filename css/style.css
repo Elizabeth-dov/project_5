@@ -1495,3 +1495,29 @@ transform: rotate(180deg);
         margin-top: 3%;
         grid-template-columns: 1fr;
     }
+    .creation__candle {
+    padding-bottom: 450px;
+    }
+    .courses__content-block-content {
+    flex-direction: column;
+    gap: 51px;
+    margin-left: 118px;
+    }
+    .courses__content-block-content-1, .courses__content-block-content-2 {
+    max-width: 260px;
+    }
+    .courses__title{
+        left: 16px;
+    }
+    .courses__time {
+    left: 42px;
+    }
+    .courses__price {
+    right: 15px;
+    }
+    .teachers{
+    display: none;
+    }
+    .feedback {
+    padding-top: 10px;
+    }
