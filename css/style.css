@@ -729,6 +729,9 @@ transform: rotate(180deg);
     .footer__social-list{
         margin-left: 181px;
     }
+     .logo {
+    margin-right: 207px;
+    }
     .review__content-text{
         width: 255px;
         height: 269px;
