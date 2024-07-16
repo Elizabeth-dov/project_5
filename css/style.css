@@ -1469,3 +1469,22 @@ transform: rotate(180deg);
         height: 500px;
 }
 }
+@media (max-width: 550px) {
+    .container{
+        max-width: 400px;
+}
+    .logo_img {
+        margin-left: 134px;
+    }
+    .menu__btn {
+    width: 65px;
+    height: 23px;
+    }
+    .main-blog__list {
+    gap: 13px 50px;
+    margin-top: -41%;
+    margin-left: -76px;
+    }
+    .assortment {
+    padding-bottom: 10px;
+    }
