@@ -1339,7 +1339,7 @@ transform: rotate(180deg);
     margin: -15px;
     }
    .signup__container{
-    padding-top: -100px;
+    margin-top: 20px;
    }
    .signup__content{
     max-width: 447px;
