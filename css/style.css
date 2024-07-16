@@ -1335,6 +1335,9 @@ transform: rotate(180deg);
    .promo__btn{
     margin-left: 473px;
    }
+    .promo__button {
+    margin: -15px;
+    }
    .signup__container{
     padding-top: -100px;
    }
