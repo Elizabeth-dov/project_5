@@ -990,6 +990,9 @@ transform: rotate(180deg);
 }
 
 @media (max-width: 900px) {
+    .container{
+        max-width: 800px;
+    }
     .phone_text {
     padding-left: 52px;
     }
