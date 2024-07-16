@@ -1456,6 +1456,9 @@ transform: rotate(180deg);
     margin-left: 184px;
     margin-top: 64px;
     }
+    .promo__button {
+        margin: 7px;
+    }
     .signup__container {
     margin-top: 0px;
     } 
