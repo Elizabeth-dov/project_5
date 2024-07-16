@@ -1488,3 +1488,10 @@ transform: rotate(180deg);
     .assortment {
     padding-bottom: 10px;
     }
+    .steps__content {
+        gap: 14px 116px;
+        margin-left: 90px;
+        margin-right: 0px;
+        margin-top: 3%;
+        grid-template-columns: 1fr;
+    }
