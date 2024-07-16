@@ -637,11 +637,12 @@ transform: rotate(180deg);
     padding-bottom: 160px;
 }
 .promo__title{
+    display: none;
     padding-bottom: 0;
     font-size: 40px;
 }
 .promo__button{
-  
+    display: none;
     margin: -38px;
 }
 .signup__container{
