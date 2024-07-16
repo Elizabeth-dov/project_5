@@ -1099,6 +1099,10 @@ transform: rotate(180deg);
     text-align: start;
     max-height: 77px;
 }
+    .questions__content {
+    margin-left: 77px;
+    max-width: 639px;
+    }
 }
 
 @media (max-width: 800px) {
