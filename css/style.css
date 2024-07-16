@@ -1521,3 +1521,9 @@ transform: rotate(180deg);
     .feedback {
     padding-top: 10px;
     }
+    .feedback__item-video{
+    max-width: 200px;
+    }
+    .form__input {
+    width: 239px;
+    }
